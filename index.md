@@ -4,7 +4,7 @@ layout: home
 cover: true #!! Add this
 title: "Homepage"
 description: >
-  Homepage of Yuanhang Zhang.
+  Homepage of Zihan Wang.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -121,17 +121,17 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I'm an MS student at [CMU RI](https://www.ri.cmu.edu/), working at [LeCAR Lab](https://lecar-lab.github.io/) advised by [Prof. Guanya Shi](https://www.gshi.me/).** 
+**I'm a MS student at [xxx](), working at []() advised by [Prof. xxx]().** 
 
-Previously, I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng) and [Prof. Danping Zou](http://drone.sjtu.edu.cn/dpzou). After that, I worked with [Prof. Richard Ren](https://wonderren.github.io/) remotely during a summer research. Subsequently, I worked with [Prof. Huazhe Xu](http://hxu.rocks/) as a research assistant at [Tsinghua University (IIS)](https://iiis.tsinghua.edu.cn/en/).
+Previously, I received my B.Eng. from [Beihang University(BUAA)](https://ev.buaa.edu.cn/), where I was advised by [Prof. Hesheng Wang](https://irmv.sjtu.edu.cn/wanghesheng). 
 
-During my undergraduate career, I led the programming group at [SJTU VEX Robotics Club](https://sjtu-vex.github.io/).
+During my undergraduate career, 
 
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 
 <h3 class="h2" style="color: rgb(1,92,171); font-size: 25px; font-weight: bold;" id="">Education </h3>
 <div>
-  <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
+  <!-- <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
       <div style="width: 15%; display: inline-block;">
           <img src="assets/images/cmu-seal-r.png" style="border-radius: 50%;">
       </div>
@@ -143,16 +143,16 @@ During my undergraduate career, I led the programming group at [SJTU VEX Robotic
           <span style="font-size: 15px;">Master Student</span><br>
           <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Robotic Systems Development</span><br>
       </div>
-  </div>
+  </div> -->
   <!-- <br> -->
   <div style="display: flex; align-items: center; margin:0rem 0rem 0.2rem 0rem">
       <div style="width: 15%; display: inline-block;">
-          <img src="assets/images/sjtu.png" style="border-radius: 50%;">
+          <img src="assets/images/buaa.jpg" style="border-radius: 50%;">
       </div>
       <div style="padding-left: 4%; width: 83%; display: inline-block; height: 100%;">
           <span>
-              <b style="font-size: 18px;">Shanghai Jiao Tong University</b>
-              <span style="font-size: 15px; float: right">Sep. 2019 - Jun. 2023</span>
+              <b style="font-size: 18px;">Beihang University</b>
+              <span style="font-size: 15px; float: right">Sep. 2021 - Jun. 2025</span>
           </span><br>
           <span style="font-size: 15px;">Undergraduate Student</span><br>
           <span style="font-size: 15px;">Major:</span> <span style="font-size: 15px; font-weight: bold;">Automation</span><br>

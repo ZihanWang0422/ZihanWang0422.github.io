@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                   https://hang0610.github.io
+url:                   https://zihanwang0422.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -20,31 +20,31 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Yuanhang Zhang
+title:                 Zihan Wang
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Homepage of Yuanhang Zhang -  Roboticist.
+  Homepage of Zihan Wang -  Roboticist.
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/images/hang.jpeg
+logo:                  /assets/images/han.jpeg
 
 # A shorter description for the sidebar.
 tagline: |
   Homepage
 
 # A list of keywords for your blog
-keywords:              [Yuanhang, Robotics, Research, CMU, SJTU]
+keywords:              [Zihan, Robotics, Research, BUAA]
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Yuanhang Zhang 
-  email:               <yuanhang0610@gmail.com>
+  name:                Zihan Wang
+  email:               <zihanw600@gmail.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             Yuanhang__Zhang
+  #twitter:             Yuanhang__Zhang
 
 # Add links to the sidebar.
 # menu:
@@ -57,22 +57,24 @@ author:
 menu:
   - title:             BIOGRAPHY
     url:               /#biography
-  - title:             RESEARCH
-    url:               /#research
-  - title:             COMPETITIONS
-    url:               /#competitions
-  - title:             LEADERSHIP
-    url:               /#leadership
+  - title:             NEWS
+    url:               /#news
+  - title:             Publication
+    url:               /#publication
+  - title:             PROJECTS
+    url:               /#projects
   - title:             AWARDS
     url:               /#awards
   - title:             SERVICE
     url:               /#service
+  - title:             MISCELLANEOUS
+    url:               /#miscellaneous
   # - title:             SKILLS
   #   url:               /#skills
   # - title:             INTERESTS
   #   url:               /#interests
   - title:             RESUME
-    url:               /assets/files/CV_EN.pdf
+    url:               /assets/files/resume.pdf
   # - title:             PORTFOLIO
   #   url:               /assets/files/Portfolio-Saha-Abir.pdf
   # - title:             Blog
@@ -89,7 +91,7 @@ legal:
   #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2025. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
