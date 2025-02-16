@@ -91,9 +91,7 @@ legal:
   #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             
-  text: Template from github@hang0610
-  url: https://github.com/hang0610/hang0610.github.io
+copyright:             Template from github@hang0610
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
