@@ -245,23 +245,23 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
       <tr>
         <td style=" height:auto;">
           <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; height:auto;">UAV Intelligent Perception Technology Competition</span>
+            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; height:auto;">China University Innovation and Entrepreneurship Competition</span>
             <br>
             <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National Third Prize (10%)</span>
+            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">20,000¥ Funding</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
           </div>
         </td>
         <td style="float: center; height:auto;">
-          <img src="/assets/images/dji.jpg" style="float: left;" height="100" width="100">
+          <!-- <img src="/assets/images/dji.jpg" style="float: left;" height="100" width="100"> -->
           </td>
           <td>
           <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
+            <span style="font-family: 'sans';">Beijing, China</span>
             <br>
-            <span style="font-family: 'sans';">2022.09-2022.11</span>
+            <span style="font-family: 'sans';">2023.06-2024.08</span>
           </div>
         </td>
       </tr>
@@ -272,8 +272,8 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
 <!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I implemented a SE(3) controller for quadrotor control in PX4-Autopilot, deployed YOLOv5 with TensorRT for object detection and P3P for pose estimation, and used RAPIDDS to generate collision-free trajectories for quadrotor navigation.</span> -->
 <div style="padding-left: 20px; width: auto;">
   <div class="image-container2">
-    <img src="assets/competition/dronerace1_updated.gif" alt="Image 0" class="half-width" />
-    <img src="assets/competition/dronerace2_updated.gif" alt="Image 1" class="half-width" />
+    <img src="assets/competition/aircraft.jpg" alt="Image 0" class="half-width" />
+    <img src="assets/competition/power.jpg" alt="Image 1" class="half-width" />
   </div>
   <!-- <div class="image-container2">
     <img src="assets/competition/uav3_small.jpeg" alt="Image 0" class="half-width" />
