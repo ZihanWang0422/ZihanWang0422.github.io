@@ -121,14 +121,14 @@ hide_description: true
 
 <h2 class="h1" style="color: rgb(1,92,171); font-weight: bold; font-size:30px" id="biography">Biography </h2>
 
-**I'm a Senior undergraduated student at [Beihang University(BUAA)](https://ev.buaa.edu.cn/), working at []() advised by [Prof. Jiangyun Wang](https://dept3.buaa.edu.cn/info/1204/2930.htm).** 
+**I'm a Senior undergraduated student at [Beihang University(BUAA)](https://ev.buaa.edu.cn/) My current work**
 
 <!-- Previously, I received my B.Eng. from [Beihang University(BUAA)](https://ev.buaa.edu.cn/), where I was advised by []().  -->
 
 During my undergraduate career, I hold a strong interest in the discipline of robotics. My research interests lie in:  
 🌟**Robot Control**: How to design and intergrate efficient control methods to enable robots to tackle some tasks with robustness and adaptability.  
-🌟**Robot Learning**: Find some learning based methods(e.g. reinforcement learning, diffusion policy, VLA model etc) to achieve interaction with human and environments.  
-🌟**Physical AI simulator**: Develope a high-fidelity physics-AI simulation engine which can deliver adaptive and precise virtual environments for complex systems (e.g. robotics, autonomous vehicles) to accelerate AI training and real-world deployment.
+🌟**Robot Learning**: Find some learning based methods(e.g. reinforcement learning, diffusion policy, VLA model etc) to achieve perception and interaction with human and environments.  
+🌟**Physical AI simulator**: Develope a high-fidelity physics-AI simulator which can deliver adaptive and precise virtual environments for complex systems (e.g. robotics, autonomous vehicles) to accelerate AI training and real-world deployment.
 
 <!-- I'm interested in **Robotics**, **Machine Learning** and **Optimal Control**. Currently, I'm working on **Humanoid** and **Aerial Manipulation**. -->
 
@@ -175,7 +175,7 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
                 <span style="font-size: 15px; float: right">Jul. 2023 - Dec. 2023</span>
             </span><br>
             <span style="font-size: 15px;"><a href="https://cde.nus.edu.sg/me/" target="_blank">Department of Mechanical Engineering</a></span><br>
-            <span style="font-size: 15px;">Advisor: <a href="https://shi.buaa.edu.cn/wangshaoping/en/index.htm" target="_blank">PhD. Wenshuo Wang</a></span><br>
+            <span style="font-size: 15px;">Advisor: <a href="https://ieeexplore.ieee.org/author/37089168198" target="_blank">PhD. Wenshuo Wang</a></span><br>
             <span style="font-size: 15px;">Topic: <a href="https://docs.google.com/presentation/d/1AB1nN69qvbDMoYwKr_wVQCPA4gvBt-gM/edit?usp=drive_link&ouid=110514396844944080931&rtpof=true&sd=true" target="_blank">Vision Language Based 6-Dof Grasp</a></span><br>
         </div>
     </div>
@@ -190,7 +190,7 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
                 <span style="font-size: 15px; float: right">Jun. 2023 - Jun. 2024</span>
             </span><br>
             <span style="font-size: 15px;">Advisor: <a href="https://shi.buaa.edu.cn/wangshaoping/en/index.htm" target="_blank">Prof. Shaoping Wang</a></span><br>
-           <span style="font-size: 15px;">Topic: <a href="https://patents.google.com/patent/CN118220461A/en?oq=+CN118220461A" target="_blank">Plasma-propelled Ultra-quiet Flying Robot</a></span><br>
+           <span style="font-size: 15px;">Topic: <a href="https://patents.google.com/patent/CN118220461A/en?oq=+CN118220461A" target="_blank">Plasma-propelled Ultra-quiet Flying Robot[Patent]</a></span><br>
         </div>
     </div>
     <!-- <br>
@@ -252,7 +252,7 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
             <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; height:auto;">China University Innovation and Entrepreneurship Competition</span>
             <br>
             <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">20,000¥ Funding</span>
+            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">Sliding Model Control</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
@@ -295,10 +295,10 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
       <tr>
         <td style="width:auto; height:auto;">
           <div>
-            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">National University IOT Design Competition</span>
+            <span style="font-family: 'Helvetica Neue Thin'; font-size: 1.15rem;font-weight: bold; width: auto;height:auto;">Auto-tracking Car Based on A* Search Algorithm</span>
             <br>
             <span class="icon-star-full" aria-hidden="true"></span>
-            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">National First Prize & Harmony Innovation Award (1%)</span>
+            <span style="font-family: 'Comic Sans MS'; color: #6495ED; font-weight:bold; font-size:1.0rem">A* Search Algorithm</span>
             <!-- <br>
             <span class="icon-briefcase" aria-hidden="true"></span>
             <span style="font-family: 'Comic Sans MS'; color: #696969; font-weight:bold; font-size:1.2rem">Team Leader</span> -->
@@ -309,9 +309,9 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
           </td>
           <td>
           <div style="text-align: right; vertical-align: top;">
-            <span style="font-family: 'sans';">Shanghai, China</span>
+            <span style="font-family: 'sans';">China, China</span>
             <br>
-            <span style="font-family: 'sans';">2022.06-2022.09</span>
+            <span style="font-family: 'sans';">2023.02-2023.05</span>
           </div>
         </td>
       </tr>
@@ -319,14 +319,14 @@ During my undergraduate career, I hold a strong interest in the discipline of ro
 </table>
 {:.stretch-table}
 
-- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.5em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></h4>
+- <h4 class="h3" style="color: rgb(128 128 128); font-weight: bold; font-size: 1.0rem; margin-bottom: -0.5em;"><span style="font-size: 1.1rem;">Links:</span> <a href="https://github.com/ZihanWang0422/YuyuanCup">[Code]</a></h4>
 <span></span>
 <!-- - <span style="font-size: 15px; color: gray; " class="table-span-spacing" >As the team leader, I led our team of 4 to design 'HarClass' from scratch, an app for modern intelligent classrooms, utilizing the distributed features of HarmonyOS, leveraged BearPi-HM Micro for environment awareness, and developed a data visualization website using custom communication protocols for cloud connectivity. <a href="https://youtu.be/VAeKPYEZg5o">[Video]</a></span> -->
 
 <div style="padding-left: 20px;">
   <div class="image-container2">
-    <img src="assets/competition/iot1.png" alt="Image 2" class="half-width" />
-    <img src="assets/competition/iot2.png" alt="Image 3" class="half-width" />
+    <img src="assets/competition/yuyuan.jpg" alt="Image 2" class="half-width" />
+    <img src="assets/competition/A*.jpg" alt="Image 3" class="half-width" />
   </div>
 </div>
 
